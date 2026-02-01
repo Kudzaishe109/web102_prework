@@ -10,41 +10,32 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] The introduction section explains the background of the company and how many games remain unfunded.
-- [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-- [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- The introduction section explains the background of the company and how many games remain unfunded.
+- The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<img src='assets/Precourse_work_walkthrough.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<!--LiceCap -->
 
-GIF created with ...
-
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I encountered was understanding how to properly filter the game data based on funding status. I also had to debug issues related to displaying the correct statistics and making sure the data updated correctly when filters were applied. This project helped me better understand JavaScript arrays, filtering logic, and DOM manipulation.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Kudzaishe Chikowore]
 
     Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    you may not use the License except in compliance with the License. You may obtain a copy of the License at
 
         http://www.apache.org/licenses/LICENSE-2.0
 
